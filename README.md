@@ -1,1 +1,1 @@
-### Hi, I'm Bekbutaev Muhammad <image src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="40px">
+### Hi, I'm Bekbutaev Muhammad <image src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="30px">
